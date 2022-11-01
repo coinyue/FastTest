@@ -1,0 +1,2 @@
+# FastTest
+FastText classification
